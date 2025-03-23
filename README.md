@@ -4,8 +4,8 @@
 ## Dataset: 
 ### [Describe the dataset, including variables like product type, sales, region, etc.].
 ## Key Steps:
-###  - Data cleaning and transformation.
+###  - Data cleaning.
 ###  - Trend and sales analysis by product category and region.
-###  - Visualizations, including bar charts and heatmaps.
+###  - Visualizations, including bar charts.
 ## Tools Used: 
 ### Python,Numpy, Pandas, Matplotlib, Seaborn.
